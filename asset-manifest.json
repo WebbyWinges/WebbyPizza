@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/https//webbywinges.github.io/WebbyPizza/static/css/main.57a28b30.css",
-    "main.js": "/https//webbywinges.github.io/WebbyPizza/static/js/main.42efd144.js",
-    "static/js/345.d9a02590.chunk.js": "/https//webbywinges.github.io/WebbyPizza/static/js/345.d9a02590.chunk.js",
-    "static/css/651.65e3e469.chunk.css": "/https//webbywinges.github.io/WebbyPizza/static/css/651.65e3e469.chunk.css",
-    "static/js/651.d448c2aa.chunk.js": "/https//webbywinges.github.io/WebbyPizza/static/js/651.d448c2aa.chunk.js",
-    "static/media/empty-cart.png": "/https//webbywinges.github.io/WebbyPizza/static/media/empty-cart.db905d1f4b063162f25b.png",
-    "static/media/pizza-logo.svg": "/https//webbywinges.github.io/WebbyPizza/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
-    "index.html": "/https//webbywinges.github.io/WebbyPizza/index.html",
-    "main.57a28b30.css.map": "/https//webbywinges.github.io/WebbyPizza/static/css/main.57a28b30.css.map",
-    "main.42efd144.js.map": "/https//webbywinges.github.io/WebbyPizza/static/js/main.42efd144.js.map",
-    "345.d9a02590.chunk.js.map": "/https//webbywinges.github.io/WebbyPizza/static/js/345.d9a02590.chunk.js.map",
-    "651.65e3e469.chunk.css.map": "/https//webbywinges.github.io/WebbyPizza/static/css/651.65e3e469.chunk.css.map",
-    "651.d448c2aa.chunk.js.map": "/https//webbywinges.github.io/WebbyPizza/static/js/651.d448c2aa.chunk.js.map"
+    "main.css": "/WebbyPizza/static/css/main.57a28b30.css",
+    "main.js": "/WebbyPizza/static/js/main.f63ea628.js",
+    "static/js/345.d9a02590.chunk.js": "/WebbyPizza/static/js/345.d9a02590.chunk.js",
+    "static/css/651.65e3e469.chunk.css": "/WebbyPizza/static/css/651.65e3e469.chunk.css",
+    "static/js/651.d448c2aa.chunk.js": "/WebbyPizza/static/js/651.d448c2aa.chunk.js",
+    "static/media/empty-cart.png": "/WebbyPizza/static/media/empty-cart.db905d1f4b063162f25b.png",
+    "static/media/pizza-logo.svg": "/WebbyPizza/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
+    "index.html": "/WebbyPizza/index.html",
+    "main.57a28b30.css.map": "/WebbyPizza/static/css/main.57a28b30.css.map",
+    "main.f63ea628.js.map": "/WebbyPizza/static/js/main.f63ea628.js.map",
+    "345.d9a02590.chunk.js.map": "/WebbyPizza/static/js/345.d9a02590.chunk.js.map",
+    "651.65e3e469.chunk.css.map": "/WebbyPizza/static/css/651.65e3e469.chunk.css.map",
+    "651.d448c2aa.chunk.js.map": "/WebbyPizza/static/js/651.d448c2aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57a28b30.css",
-    "static/js/main.42efd144.js"
+    "static/js/main.f63ea628.js"
   ]
 }
