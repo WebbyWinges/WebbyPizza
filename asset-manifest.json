@@ -1,21 +1,18 @@
 {
   "files": {
-    "main.css": "/WebbyPizza/static/css/main.57a28b30.css",
-    "main.js": "/WebbyPizza/static/js/main.f63ea628.js",
-    "static/js/345.d9a02590.chunk.js": "/WebbyPizza/static/js/345.d9a02590.chunk.js",
-    "static/css/651.65e3e469.chunk.css": "/WebbyPizza/static/css/651.65e3e469.chunk.css",
-    "static/js/651.d448c2aa.chunk.js": "/WebbyPizza/static/js/651.d448c2aa.chunk.js",
-    "static/media/empty-cart.png": "/WebbyPizza/static/media/empty-cart.db905d1f4b063162f25b.png",
-    "static/media/pizza-logo.svg": "/WebbyPizza/static/media/pizza-logo.56ac87032d8f6fdf863326acd06c0d97.svg",
-    "index.html": "/WebbyPizza/index.html",
-    "main.57a28b30.css.map": "/WebbyPizza/static/css/main.57a28b30.css.map",
-    "main.f63ea628.js.map": "/WebbyPizza/static/js/main.f63ea628.js.map",
-    "345.d9a02590.chunk.js.map": "/WebbyPizza/static/js/345.d9a02590.chunk.js.map",
-    "651.65e3e469.chunk.css.map": "/WebbyPizza/static/css/651.65e3e469.chunk.css.map",
-    "651.d448c2aa.chunk.js.map": "/WebbyPizza/static/js/651.d448c2aa.chunk.js.map"
+    "main.css": "/ForJob/static/css/main.41466ed3.css",
+    "main.js": "/ForJob/static/js/main.e5bec2fa.js",
+    "static/media/man.svg": "/ForJob/static/media/man.7431768d7e1a0087a46be22bb4d0b14d.svg",
+    "static/media/filter.svg": "/ForJob/static/media/filter.7b7e30897d72876cd505b1ea60d863cb.svg",
+    "static/media/lup.svg": "/ForJob/static/media/lup.a7c19de5d878a4da5d9628d849430b3b.svg",
+    "index.html": "/ForJob/index.html",
+    "static/media/search.svg": "/ForJob/static/media/search.accb85e0d6d8460671d8bfa5cba7e323.svg",
+    "static/media/Point.svg": "/ForJob/static/media/Point.1d22b5267db5ddac8b4a78a3d900e544.svg",
+    "main.41466ed3.css.map": "/ForJob/static/css/main.41466ed3.css.map",
+    "main.e5bec2fa.js.map": "/ForJob/static/js/main.e5bec2fa.js.map"
   },
   "entrypoints": [
-    "static/css/main.57a28b30.css",
-    "static/js/main.f63ea628.js"
+    "static/css/main.41466ed3.css",
+    "static/js/main.e5bec2fa.js"
   ]
 }
